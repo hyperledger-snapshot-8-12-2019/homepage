@@ -1,4 +1,3 @@
-### Make it your Internet!
 #### <a href='/about'>Contact Us</a>
 
 * Deploy an infrastructure hyperledger blockchain in 24 hours.
